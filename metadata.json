@@ -1,0 +1,5 @@
+{
+  "name": "NoSQL Schema Generator",
+  "description": "An intelligent NoSQL database schema generator based on application requirements. Hover over schema elements to see justifications and highlight the corresponding requirements.",
+  "requestFramePermissions": []
+}
